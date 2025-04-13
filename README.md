@@ -44,10 +44,11 @@ If you're using VS Code, make sure to include the provided `.vscode` folder with
 
 ## Controls
 
-| Action    | Keys               |
-|-----------|--------------------|
-| Move      | WASD or Arrow keys |
-| Select    | Space or Enter     |
+| Action    | Keys                            |
+|-----------|---------------------------------|
+| Move      | WASD, Arrow keys or mouse wheel |
+| Select    | Space or Enter                  |
+| Back      | Esc button                      |
 
 ## Settings
 
