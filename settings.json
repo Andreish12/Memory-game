@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "ncurses.h": "c"
+    },
+    "code-runner.executorMap": {
+        "c": "gcc -o $fileNameWithoutExt $fileName -lncurses && $dir$fileNameWithoutExt"
+    }
+}
